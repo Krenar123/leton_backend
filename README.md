@@ -147,4 +147,4 @@ config/routes.rb   # Namespaced under /api/v1
 
 ## 👨‍💻 Author
 
-Built with ❤️ by Krenar Darlishta (Partner Technical Challenge – July 2025)
+Built by Krenar Darlishta (Partner Technical Challenge – July 2025)
